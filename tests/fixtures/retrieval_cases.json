@@ -1,0 +1,14 @@
+[
+  {"chinese_name": "雨娜", "culture": "ja", "gender": "female", "personality_tags": ["bright"], "expected_names": ["Yuna"]},
+  {"chinese_name": "露易丝", "culture": "fr", "gender": "female", "personality_tags": ["elegant"], "expected_names": ["Louise"]},
+  {"chinese_name": "李明", "culture": "en-US", "gender": "male", "personality_tags": [], "expected_names": ["Liam"]},
+  {"chinese_name": "安娜", "culture": "fr", "gender": "female", "personality_tags": ["elegant"], "expected_names": ["Anna"]},
+  {"chinese_name": "艾玛", "culture": "en-US", "gender": "female", "personality_tags": ["warm"], "expected_names": ["Emma"]},
+  {"chinese_name": "诺亚", "culture": "en-UK", "gender": "male", "personality_tags": ["calm"], "expected_names": ["Noah"]},
+  {"chinese_name": "奥利维亚", "culture": "en-UK", "gender": "female", "personality_tags": ["classic"], "expected_names": ["Olivia"]},
+  {"chinese_name": "苏菲亚", "culture": "en-US", "gender": "female", "personality_tags": ["wise"], "expected_names": ["Sophia"]},
+  {"chinese_name": "莉莉", "culture": "en-UK", "gender": "female", "personality_tags": ["bright"], "expected_names": ["Lily"]},
+  {"chinese_name": "哈鲁", "culture": "ja", "gender": "neutral", "personality_tags": ["bright"], "expected_names": ["Haru"]},
+  {"chinese_name": "琪", "culture": "en-US", "gender": "female", "personality_tags": ["intelligent"], "desired_meaning": "wisdom and intelligence", "expected_names": ["Sophia"]},
+  {"chinese_name": "光", "culture": "fr", "gender": "female", "personality_tags": ["radiant"], "desired_meaning": "dawn light and brightness", "expected_names": ["Alba"]}
+]

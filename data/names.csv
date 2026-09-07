@@ -1,0 +1,67 @@
+name,culture,gender,ipa,origin,etymology,meaning,style_tags,popularity
+Olivia,en-UK,female,,Latin,,,elegant|classic|graceful,1.00
+Amelia,en-UK,female,,Germanic,From the Germanic element amal,work,classic|strong|elegant,0.96
+Isla,en-UK,female,,Scottish,,,gentle|modern|natural,0.92
+Lily,en-UK,female,,English,From the flower name,lily flower,gentle|bright|natural,0.88
+Freya,en-UK,female,,Old Norse,Name of the Norse goddess Freyja,lady,strong|elegant|mythic,0.84
+Muhammad,en-UK,male,,Arabic,From the Arabic root h-m-d,praised,classic|strong|dignified,1.00
+Noah,en-UK,male,,Hebrew,From Hebrew Noach,rest,calm|gentle|classic,0.96
+Oliver,en-UK,male,,,,,classic|friendly|gentle,0.92
+George,en-UK,male,,Greek,From Greek georgos,farmer,classic|strong|dignified,0.88
+Arthur,en-UK,male,,,,,classic|strong|noble,0.84
+Harry,en-UK,male,,English,Medieval English form of Henry,,friendly|classic|warm,0.80
+Charlie,en-UK,neutral,,English,Diminutive of Charles,,friendly|modern|warm,0.76
+Rowan,en-UK,neutral,,,,,natural|calm|modern,0.72
+Alex,en-UK,neutral,,Greek,Short form of Alexander or Alexandra,defender of people,modern|strong|international,0.68
+Robin,en-UK,neutral,,English,Medieval diminutive of Robert,bright fame,gentle|classic|natural,0.64
+Olivia,en-US,female,,Latin,,,elegant|classic|graceful,1.00
+Emma,en-US,female,,Germanic,From the Germanic element ermen,whole or universal,classic|warm|elegant,0.96
+Amelia,en-US,female,,Germanic,From the Germanic element amal,work,classic|strong|elegant,0.92
+Charlotte,en-US,female,,French,Feminine form of Charles,,classic|elegant|dignified,0.88
+Mia,en-US,female,,,,,modern|bright|friendly,0.84
+Sophia,en-US,female,,Greek,From Greek sophia,wisdom,elegant|wise|classic,0.80
+Liam,en-US,male,,Irish,Irish short form of William,,strong|modern|friendly,1.00
+Noah,en-US,male,,Hebrew,From Hebrew Noach,rest,calm|gentle|classic,0.96
+Oliver,en-US,male,,,,,classic|friendly|gentle,0.92
+Theodore,en-US,male,,Greek,From Greek theos and doron,gift of God,classic|wise|dignified,0.88
+James,en-US,male,,English,English form of Jacob,,classic|strong|dignified,0.84
+Henry,en-US,male,,Germanic,From Germanic Heimrich,home ruler,classic|strong|warm,0.80
+Avery,en-US,neutral,,,,,modern|gentle|creative,0.76
+Riley,en-US,neutral,,,,,friendly|modern|energetic,0.72
+Jordan,en-US,neutral,,Hebrew,From the name of the Jordan River,to flow down,modern|strong|international,0.68
+Louise,fr,female,,French,Feminine form of Louis,,elegant|classic|dignified,1.00
+Jade,fr,female,,French,From the gemstone name,jade gemstone,bright|modern|natural,0.96
+Ambre,fr,female,,French,French word for amber,amber,elegant|warm|modern,0.92
+Alba,fr,female,,Latin,From Latin alba,dawn or white,bright|elegant|gentle,0.88
+Emma,fr,female,,Germanic,From the Germanic element ermen,whole or universal,classic|warm|elegant,0.84
+Alma,fr,female,,Multiple origins,,,gentle|elegant|warm,0.80
+Romy,fr,female,,,,,modern|creative|friendly,0.76
+Rose,fr,female,,Latin,From the flower name,rose,elegant|classic|natural,0.72
+Alice,fr,female,,Old French,From Old French Adelais,noble,classic|elegant|gentle,0.68
+Anna,fr,female,,Hebrew,Form of Hannah,grace,classic|gentle|elegant,0.64
+Gabriel,fr,male,,Hebrew,From Hebrew Gavri'el,God is my strength,classic|strong|dignified,1.00
+Raphaël,fr,male,,Hebrew,From Hebrew Rafa'el,God heals,elegant|classic|gentle,0.96
+Louis,fr,male,,French,From Germanic Chlodowig,famous in battle,classic|dignified|strong,0.92
+Léo,fr,male,,Greek and Latin,From words meaning lion,lion,strong|bright|modern,0.88
+Noah,fr,male,,Hebrew,From Hebrew Noach,rest,calm|gentle|classic,0.84
+Arthur,fr,male,,,,,classic|strong|noble,0.80
+Adam,fr,male,,Hebrew,From Hebrew adam,human,classic|simple|strong,0.76
+Jules,fr,male,,French,French form of Julius,,classic|creative|elegant,0.72
+Maël,fr,male,,Breton,From Breton mael,chief or prince,strong|modern|dignified,0.68
+Léon,fr,male,,Greek,From Greek leon,lion,strong|classic|bright,0.64
+Yuna,ja,female,,Japanese,,,gentle|modern|bright,0.92
+Tsumugi,ja,female,,Japanese,,,classic|creative|gentle,1.00
+Sui,ja,female,,Japanese,,,elegant|modern|bright,0.96
+Rin,ja,neutral,,Japanese,,,elegant|calm|modern,0.92
+Mei,ja,female,,Japanese,,,bright|gentle|modern,0.88
+Hina,ja,female,,Japanese,,,gentle|bright|friendly,0.84
+Aoi,ja,neutral,,Japanese,,,natural|calm|modern,0.80
+Haruto,ja,male,,Japanese,,,bright|modern|energetic,1.00
+Nagi,ja,neutral,,Japanese,,,calm|natural|modern,0.96
+Asahi,ja,neutral,,Japanese,,,bright|energetic|modern,0.92
+Haru,ja,neutral,,Japanese,,,bright|gentle|natural,0.88
+Hinata,ja,neutral,,Japanese,,,bright|warm|friendly,0.84
+Ritsu,ja,neutral,,Japanese,,,calm|modern|dignified,0.80
+Ren,ja,male,,Japanese,,,calm|modern|strong,0.76
+Minato,ja,male,,Japanese,,,calm|modern|friendly,0.72
+Sora,ja,neutral,,Japanese,,,bright|free|modern,0.68
